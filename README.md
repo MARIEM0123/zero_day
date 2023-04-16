@@ -13,4 +13,4 @@
      - uname 
 
 ## be sure that :
-     *Reaching these basics objectives is very important to go further.*_empha
+     Reaching these basic objectives is very important to go further.
